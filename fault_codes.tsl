@@ -1,0 +1,13 @@
+---
+sheet: fault_codes
+key: code
+columns:
+  code: int
+  severity: enum(WARNING, CAUTION, ALERT)
+  threshold: int
+  action: string
+---
+code,severity,threshold,action
+1001,WARNING,100,LOG
+1002,CAUTION,85,ALERT
+1003,ALERT,50,SHUTDOWN

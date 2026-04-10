@@ -1,0 +1,4 @@
+tensil/build/
+tensil/tensil.egg-info/
+tensil/tensil/__pycache__/
+tensil/tests/__pycache__/
