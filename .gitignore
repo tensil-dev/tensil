@@ -1,3 +1,4 @@
+.DS_Store
 tensil/build/
 tensil/tensil.egg-info/
 tensil/tensil/__pycache__/
